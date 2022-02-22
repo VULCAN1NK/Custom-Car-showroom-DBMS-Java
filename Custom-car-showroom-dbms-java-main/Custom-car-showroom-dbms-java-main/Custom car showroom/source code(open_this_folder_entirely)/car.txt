@@ -1,0 +1,1 @@
+A101,Tempcar,Temp,1.0,1.0,nodate00

@@ -1,0 +1,8 @@
+open the source code folder in this found in this folder to open the java project. 
+The files created are loaded with temporary values and can only be manually deleted.
+
+For Admin
+ID:       admin
+Password :admin
+
+Employee and Customer have no passwords or id..unless logging in after creatin account.
